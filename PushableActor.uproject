@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A8444E2A-449C-C5D6-EF3B-AE9433D11124}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PushableActor",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "PushableActorEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
